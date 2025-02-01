@@ -1,10 +1,10 @@
 # Django Multilingual FAQ API
 
-## 🚀 Overview
+## Overview
 
 This project is a Django-based REST API for managing Frequently Asked Questions (FAQs) with multilingual support. It includes a WYSIWYG editor for rich text formatting, automated translation using Google Translate, caching with Redis, and a user-friendly Django admin panel.
 
-## 📌 Features
+## Features
 
 - **FAQ Model** with multilingual support
 - **WYSIWYG Editor** using `django-ckeditor`
@@ -17,7 +17,7 @@ This project is a Django-based REST API for managing Frequently Asked Questions 
 
 ---
 
-## 🛠 Installation
+## Installation
 
 ### Prerequisites
 
@@ -68,7 +68,7 @@ python manage.py runserver
 
 ---
 
-## 🔥 API Usage
+## API Usage
 
 ### Fetch FAQs in English (default)
 
@@ -156,6 +156,6 @@ git push heroku main
 
 ## 📧 Contact
 
-For any queries, reach out to: `devsambhav5@gmail.com`
+For any queries, reach out to: `adityavyshnavjob@gmail.com`
 
 
