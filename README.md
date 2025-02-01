@@ -156,6 +156,6 @@ git push heroku main
 
 ## 📧 Contact
 
-For any queries, reach out to: `devsambhav5@gmail.com`
+For any queries, reach out to: `adityavyshnavjob@gmail.com`
 
 
